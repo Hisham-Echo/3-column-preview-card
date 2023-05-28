@@ -134,4 +134,8 @@ main section div.card a:hover {
         -ms-border-radius: 0 5px 5px 0;
         -o-border-radius: 0 5px 5px 0;
     }
+
+    main section div.card a {
+        margin-top: 75px
+    }
 }
