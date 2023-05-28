@@ -34,7 +34,7 @@ main {
 
 main section {
     margin: 20px;
-    width: 330px;
+    max-width: 330px;
 }
 
 .sedan {
@@ -136,6 +136,6 @@ main section div.card a:hover {
     }
 
     main section div.card a {
-        margin-top: 75px
+        margin-top: 75px;
     }
 }
