@@ -105,7 +105,7 @@ main section div.card a {
 main section div.card a:hover {
     background-color: transparent;
     color: var(--Very-light-gray--background-headings-buttons, lightgrey);
-    border: 2px solid
+    outline: 2px solid
         var(--Very-light-gray--background-headings-buttons, lightgrey);
 }
 
