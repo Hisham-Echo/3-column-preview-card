@@ -95,4 +95,4 @@ This challenge is completely free. Please share it with anyone who will find it 
 https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
 
 **Live-Preview:**
-https://hisham3243.github.io/3-column-preview-card/
+https://hisham-echo.github.io/3-column-preview-card/
